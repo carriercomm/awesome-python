@@ -113,21 +113,21 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Local PyPI repository server and proxies.*
 
-* [warehouse](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
+* [warehouse](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI). (py3)
     * [Warehouse](https://warehouse.python.org/)
-* [devpi](http://doc.devpi.net/) - PyPI server and packaging/testing/release tool.
-* [localshop](https://github.com/mvantellingen/localshop) - PyPI server which mirrors official packages on-demand, and also supports local (private) package uploads.
+* [devpi](http://doc.devpi.net/) - PyPI server and packaging/testing/release tool. (py2,py3)
+* [localshop](https://github.com/mvantellingen/localshop) - PyPI server which mirrors official packages on-demand, and also supports local (private) package uploads. (py2)
 
 ## Distribution
 
 *Libraries to create packaged executables for release distribution.*
 
-* [cx-Freeze](http://cx-freeze.readthedocs.org/) - Freezes Python scripts (cross-platform).
-* [py2exe](http://www.py2exe.org/) - Freezes Python scripts (Windows).
-* [pynsist](http://pynsist.readthedocs.org/) - A tool to build Windows installers, installers bundle Python itself.
-* [py2app](http://pythonhosted.org/py2app/) - Freezes Python scripts (Mac OS X).
-* [PyInstaller](http://www.pyinstaller.org/) - Converts Python programs into stand-alone executables (cross-platform).
-* [dh-virtualenv](http://dh-virtualenv.readthedocs.org/) - Build and distribute a virtualenv as a Debian package.
+* [cx-Freeze](http://cx-freeze.readthedocs.org/) - Freezes Python scripts (cross-platform). (py2,py3)
+* [py2exe](http://www.py2exe.org/) - Freezes Python scripts (Windows). (py2,py3)
+* [pynsist](http://pynsist.readthedocs.org/) - A tool to build Windows installers, installers bundle Python itself. (py2,py3)
+* [py2app](http://pythonhosted.org/py2app/) - Freezes Python scripts (Mac OS X). (py2,py3)
+* [PyInstaller](http://www.pyinstaller.org/) - Converts Python programs into stand-alone executables (cross-platform). (py2)
+* [dh-virtualenv](http://dh-virtualenv.readthedocs.org/) - Build and distribute a virtualenv as a Debian package. (py2)
 
 ## Build Tools
 
