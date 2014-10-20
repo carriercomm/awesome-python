@@ -103,11 +103,11 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries for package and dependency management.*
 
-* [pip](https://pip.pypa.io/) - The Python package and dependency manager.
+* [pip](https://pip.pypa.io/) - The Python package and dependency manager. (py2,py3)
     * [Python Package Index](https://pypi.python.org/pypi)
-* [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
-* [Curdling](http://clarete.li/curdling/) - Curdling is a command line tool for managing Python packages.
-* [wheel](http://pythonwheels.com/) - The new standard of Python distribution and are intended to replace eggs.
+* [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager. (py2,py3)
+* [Curdling](http://clarete.li/curdling/) - Curdling is a command line tool for managing Python packages. (py2,py3)
+* [wheel](http://pythonwheels.com/) - The new standard of Python distribution and are intended to replace eggs. (py2,py3)
 
 ## Package Repositories
 
