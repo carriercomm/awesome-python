@@ -133,8 +133,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Compile software from source code.*
 
-* [buildout](http://www.buildout.org/) - A build system for creating, assembling and deploying applications from multiple parts, some of which may be non-Python-based.
-* [SCons](http://www.scons.org/) - A software construction tool.
+* [buildout](http://www.buildout.org/) - A build system for creating, assembling and deploying applications from multiple parts, some of which may be non-Python-based. (py2,py3)
+* [SCons](http://www.scons.org/) - A software construction tool. (py2)
 * [PlatformIO](https://github.com/ivankravets/platformio) - A console tool to build code with different development platforms.
 * [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) - A make-like build tool with the special focus of distributions and packages for embedded Linux.
 * [fabricate](https://code.google.com/p/fabricate/) - A build tool that finds dependencies automatically for any language.
